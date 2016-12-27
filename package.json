@@ -1,0 +1,15 @@
+{
+  "name": "llafyks_server",
+  "version": "1.0.0",
+  "description": "Server for llafyks",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Lord Squirrel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "1.2.0"
+  }
+}
